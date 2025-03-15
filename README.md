@@ -20,19 +20,10 @@ Para empezar a usar **next-framework**, sigue estos pasos:
 git clone https://github.com/David-ux469/next-framework.git
 Navega al directorio del proyecto:
 
-bash
-Copy
-Edit
 cd next-framework
 Instala las dependencias:
 
-bash
-Copy
-Edit
 npm install
 Inicia el servidor de desarrollo:
 
-bash
-Copy
-Edit
 npm run dev
